@@ -95,6 +95,7 @@ main::after {
 .star-rating span {
     margin-left: 1rem;
     font-size: 18px;
+    color: hsl(300, 43%, 22%);
 }
 
 .star-rating-2 {
@@ -109,6 +110,8 @@ main::after {
 .star-rating-2 span {
     margin-left: 1rem;
     font-size: 18px;
+    color: hsl(300, 43%, 22%);
+
 }
 
 .star-rating-3 {
@@ -122,6 +125,8 @@ main::after {
 .star-rating-3 span {
     margin-left: 1rem;
     font-size: 18px;
+    color: hsl(300, 43%, 22%);
+
 }
 
 .card {
