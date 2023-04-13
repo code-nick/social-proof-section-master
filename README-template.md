@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-[Desktop preview](./images/desktop-preview.png);
-[Mobile preview](./images/mobile-preview.png);
+[Desktop preview](../images/desktop-preview.png);
+[Mobile preview](../images/mobile-preview.png);
 
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
