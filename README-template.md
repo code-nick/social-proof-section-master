@@ -29,14 +29,14 @@ Users should be able to:
 ### Screenshot
 
 [Desktop preview](./images/desktop-preview.png);
-[Mobile preview](./images/mobile-preview.png)
+[Mobile preview](./images/mobile-preview.png);
 
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/code-nick/social-proof-section-master.git)
+- Live Site URL: [Add live site URL here]( https://code-nick.github.io/social-proof-section-master/)
 
 ## My process
 
